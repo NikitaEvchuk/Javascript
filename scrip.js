@@ -1,4 +1,4 @@
-let age = 16
+/* let age = 16
 console.log(age) 
 
 
@@ -32,6 +32,6 @@ let attention = alert("Be careful")
 let confirmation = confirm("Підтвердіть особу")
 if(confirmation){
     console.log( "Дякую за підтвердження!")
-} else console.log("Дію відмінено!")   
+} else console.log("Дію відмінено!")    */
 
 
